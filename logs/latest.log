@@ -1,164 +1,83 @@
-[21:16:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:16:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:16:32] [main/INFO]: Reloading ResourceManager: Default
-[21:16:37] [Worker-Main-4/INFO]: Loaded 7 recipes
-[21:16:38] [Worker-Main-4/INFO]: Loaded 1137 advancements
-[21:16:50] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[21:16:50] [Server thread/INFO]: Loading properties
-[21:16:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:16:50] [Server thread/INFO]: Generating keypair
-[21:16:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:16:56] [Server thread/INFO]: Using default channel type
-[21:16:57] [Server thread/INFO]: Preparing level "world"
-[21:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:17:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:17:23] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[21:17:23] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 41%
-[21:17:28] [Worker-Main-4/INFO]: Preparing spawn area: 53%
-[21:17:28] [Worker-Main-6/INFO]: Preparing spawn area: 69%
-[21:17:29] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[21:17:29] [Worker-Main-6/INFO]: Preparing spawn area: 86%
-[21:17:30] [Worker-Main-5/INFO]: Preparing spawn area: 87%
-[21:17:30] [Worker-Main-5/INFO]: Preparing spawn area: 91%
-[21:17:31] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[21:17:31] [User Authenticator #1/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:17:31] [Worker-Main-6/INFO]: Preparing spawn area: 98%
-[21:17:32] [Worker-Main-6/INFO]: Preparing spawn area: 99%
-[21:17:38] [Server thread/INFO]: Time elapsed: 40163 ms
-[21:17:38] [Server thread/INFO]: Done (40.971s)! For help, type "help"
-[21:17:38] [Server thread/INFO]: Klenmu[/1.174.31.17:49503] logged in with entity id 31 at (-667.6999999880791, 68.0, 275.0337497203787)
-[21:17:38] [Server thread/INFO]: Klenmu joined the game
-[21:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4402ms or 88 ticks behind
-[21:17:48] [User Authenticator #2/INFO]: UUID of player ss099820327 is 188a5d17-6d39-45cf-acbf-0d3830484258
-[21:17:49] [Server thread/INFO]: ss099820327[/192.168.0.1:58101] logged in with entity id 179 at (-663.0084609767282, 64.0, 280.7077238456467)
-[21:17:50] [Server thread/INFO]: ss099820327 joined the game
-[21:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24554ms or 491 ticks behind
-[21:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13552ms or 271 ticks behind
-[21:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10500ms or 210 ticks behind
-[21:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
-[21:19:45] [Server thread/INFO]: ss099820327 has made the advancement [Voluntary Exile]
-[21:19:57] [Server thread/INFO]: ss099820327 has made the advancement [Take Aim]
-[21:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5715ms or 114 ticks behind
-[21:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4917ms or 98 ticks behind
-[21:22:15] [Server thread/INFO]: Klenmu lost connection: Disconnected
-[21:22:15] [Server thread/INFO]: Klenmu left the game
-[21:22:20] [User Authenticator #3/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:22:21] [Server thread/INFO]: Klenmu[/1.174.31.17:50685] logged in with entity id 785 at (-660.5785807669042, 64.0, 299.2453902611878)
-[21:22:21] [Server thread/INFO]: Klenmu joined the game
-[21:22:38] [Server thread/INFO]: Klenmu lost connection: Disconnected
-[21:22:38] [Server thread/INFO]: Klenmu left the game
-[21:22:42] [User Authenticator #4/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:22:42] [Server thread/INFO]: Klenmu[/1.174.31.17:50772] logged in with entity id 827 at (-660.5785807669042, 63.231523797587016, 299.2453902611878)
-[21:22:42] [Server thread/INFO]: Klenmu joined the game
-[21:23:14] [Server thread/INFO]: Klenmu lost connection: Timed out
-[21:23:14] [Server thread/INFO]: Klenmu left the game
-[21:23:18] [User Authenticator #5/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:23:19] [Server thread/INFO]: Klenmu[/1.174.31.17:50924] logged in with entity id 888 at (-660.5785807669042, 63.15312379606114, 299.2453902611878)
-[21:23:19] [Server thread/INFO]: Klenmu joined the game
-[21:23:40] [Server thread/INFO]: Klenmu lost connection: Disconnected
-[21:23:40] [Server thread/INFO]: Klenmu left the game
-[21:23:49] [User Authenticator #6/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
-[21:23:50] [Server thread/INFO]: Klenmu[/1.174.31.17:51050] logged in with entity id 947 at (-660.5785807669042, 63.07472379453526, 299.2453902611878)
-[21:23:50] [Server thread/INFO]: Klenmu joined the game
-[21:23:59] [Server thread/INFO]: Klenmu lost connection: Disconnected
-[21:23:59] [Server thread/INFO]: Klenmu left the game
-[21:24:52] [User Authenticator #7/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
-[21:24:52] [Server thread/INFO]: Klenmu[/1.174.31.17:51328] logged in with entity id 1040 at (-660.5785807669042, 63.07472379453526, 299.2453902611878)
-[21:24:52] [Server thread/INFO]: Klenmu joined the game
-[21:32:08] [Server thread/INFO]: ss099820327 has made the advancement [Not Today, Thank You]
-[21:38:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-648, y=63, z=226} gg{x=-648, y=64, z=227}
-[21:40:48] [Server thread/INFO]: ss099820327 has made the advancement [Fishy Business]
-[22:20:46] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-625, y=59, z=316} gg{x=-625, y=60, z=316}
-[22:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-624, y=59, z=315} gg{x=-624, y=60, z=315}
-[22:20:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-624, y=59, z=315} gg{x=-624, y=60, z=315}
-[22:20:48] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-623, y=59, z=318} gg{x=-623, y=60, z=318}
-[22:44:45] [Server thread/INFO]: <ss099820327> mu
-[22:54:10] [Server thread/INFO]: ss099820327 has made the advancement [The Parrots and the Bats]
-[22:54:35] [Server thread/INFO]: Klenmu has made the advancement [The Parrots and the Bats]
-[22:56:07] [Server thread/INFO]: Klenmu has made the advancement [Acquire Hardware]
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:00:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-642, y=67, z=276} gg{x=-642, y=66, z=277}
-[23:05:52] [Server thread/INFO]: Klenmu has made the advancement [A Seedy Place]
-[23:07:02] [Server thread/INFO]: Klenmu lost connection: Disconnected
-[23:07:02] [Server thread/INFO]: Klenmu left the game
-[23:07:27] [Server thread/INFO]: ss099820327 lost connection: Disconnected
-[23:07:27] [Server thread/INFO]: ss099820327 left the game
-[23:07:34] [Server thread/INFO]: Stopping the server
-[23:07:34] [Server thread/INFO]: Stopping server
-[23:07:34] [Server thread/INFO]: Saving players
-[23:07:34] [Server thread/INFO]: Saving worlds
-[23:07:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:40:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:40:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:40:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:40:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:40:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:40:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:40:40] [main/INFO]: Reloading ResourceManager: Default
+[15:40:42] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:40:42] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[15:40:44] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:40:44] [Server thread/INFO]: Loading properties
+[15:40:44] [Server thread/INFO]: Default game type: SURVIVAL
+[15:40:44] [Server thread/INFO]: Generating keypair
+[15:40:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:40:44] [Server thread/INFO]: Using default channel type
+[15:40:45] [Server thread/INFO]: Preparing level "world"
+[15:40:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:40:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:40:51] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[15:40:51] [Worker-Main-8/INFO]: Preparing spawn area: 70%
+[15:40:52] [Worker-Main-10/INFO]: Preparing spawn area: 86%
+[15:40:52] [Server thread/INFO]: Time elapsed: 6906 ms
+[15:40:52] [Server thread/INFO]: Done (7.028s)! For help, type "help"
+[15:40:56] [User Authenticator #1/INFO]: UUID of player hariikuma is 188a5d17-6d39-45cf-acbf-0d3830484258
+[15:40:57] [Server thread/INFO]: hariikuma[/192.168.0.1:12801] logged in with entity id 49 at (-623.4536502081728, 62.0, 257.6317498612917)
+[15:40:57] [Server thread/INFO]: hariikuma (formerly known as ss099820327) joined the game
+[15:41:06] [User Authenticator #2/INFO]: UUID of player Klenmu is b9a1bedc-4fa9-4ffa-832a-0f82b7b7196a
+[15:41:06] [Server thread/INFO]: Klenmu[/192.168.0.1:55330] logged in with entity id 245 at (-661.6325031271865, 64.0, 270.52494147618796)
+[15:41:06] [Server thread/INFO]: Klenmu joined the game
+[15:44:33] [Server thread/INFO]: Klenmu has made the advancement [Isn't It Iron Pick]
+[15:50:36] [Server thread/INFO]: Klenmu has made the advancement [Not Today, Thank You]
+[15:56:45] [Server thread/INFO]: Klenmu was impaled by Drowned
+[16:07:21] [Server thread/INFO]: <hariikuma> enderman
+[17:20:54] [Server thread/WARN]: Klenmu moved too quickly! 10.222541364174504,0.0,-0.5339082978392469
+[17:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:27:15] [Server thread/INFO]: hariikuma has made the advancement [Ice Bucket Challenge]
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 9.856796457547034,0.0,-3.3171519571354793
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 10.235904032106873,0.0,-3.4447346817498214
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 10.615011607071665,0.0,-3.5723174054235756
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 10.994119182400937,0.0,-3.6999001282508175
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 11.373226758058308,0.0,-3.827482850316187
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 11.752334334010811,0.0,-3.9550655716958545
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 12.131441910229114,0.0,-4.08264829245843
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 12.510549486686386,0.0,-4.210231012665588
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 12.889657063358982,0.0,-4.337813732372865
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 13.2687646402253,0.0,-4.4653964516302835
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 13.647872217265785,0.0,-4.592979170482806
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 14.026979794463386,0.0,-4.720561888970906
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 14.406087371802187,0.0,-4.848144607131019
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 14.785194949267861,0.0,-4.975727324996001
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 15.164302526848132,0.0,-5.103310042595297
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 15.543410104531176,0.0,-5.230892759955509
+[17:30:04] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 15.922517682306989,0.0,-5.358475477100569
+[17:40:56] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 6.025304590914402,0.0,-8.285294847837008
+[17:40:56] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 6.1272732075731255,0.0,-8.652481230718763
+[17:40:56] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 6.21052054784559,0.0,-9.022030089284158
+[17:40:56] [Server thread/WARN]: Boat (vehicle of hariikuma) moved too quickly! 6.275133613301932,0.0,-9.39327263990242
+[17:59:56] [Server thread/INFO]: Klenmu has made the advancement [Best Friends Forever]
+[18:48:33] [Server thread/INFO]: Klenmu lost connection: Disconnected
+[18:48:33] [Server thread/INFO]: Klenmu left the game
+[19:22:46] [Server thread/INFO]: hariikuma lost connection: Disconnected
+[19:22:46] [Server thread/INFO]: hariikuma left the game
+[20:36:37] [Server thread/INFO]: Stopping the server
+[20:36:37] [Server thread/INFO]: Stopping server
+[20:36:37] [Server thread/INFO]: Saving players
+[20:36:37] [Server thread/INFO]: Saving worlds
+[20:36:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:36:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:36:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:36:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
